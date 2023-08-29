@@ -1,8 +1,6 @@
 <h1 align="center">📊 Harman Khatkar's Data Analysis Portfolio</h1>
 <p align="center">Embark on a journey through data-driven insights and discoveries</p>
 
-## 🌐 Connect with Me
-
 [![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourusername/)
 [![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
