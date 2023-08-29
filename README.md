@@ -23,3 +23,6 @@ Welcome to my realm of data exploration and analysis! This repository encapsulat
 ## 🚀 Projects
 
 Each project is placed in their respective folder. 
+
+&#x1F4CA;  <!-- Excel emoji -->
+Excel Project: Sales Analysis
