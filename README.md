@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourusername/)
 [![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
-[![Kaggle](KAGGLE_ICON_URL)](KAGGLE_PROFILE_URL)
+[![Kaggle](https://www.kaggle.com/harmankhatkar1)](https://www.kaggle.com/harmankhatkar1)
 
 Welcome to my realm of data exploration and analysis! This repository encapsulates a series of captivating data stories that I've unravelled using my analytical prowess. Each project reflects a fusion of curiosity, data, and code that results in insights worth sharing. So grab your analytical lens and let's embark on this data odyssey together!
 
