@@ -24,4 +24,6 @@ Welcome to my realm of data exploration and analysis! This repository encapsulat
 
 ### Project 1: Shopzone Sales 2023
 
-![Alt Text](https://github.com/haskhatkar/images/blob/main/Shopzone%20Sales%202023.png?raw=true)
+
+
+![Shopzone Sales 2023 Dashboard](https://github.com/haskhatkar/images/blob/main/Shopzone%20Sales%202023.png?raw=true)
