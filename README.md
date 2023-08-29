@@ -2,10 +2,21 @@
 <p align="center">Embark on a journey through data-driven insights and discoveries</p>
 
 
-[![GitHub](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
-[![Kaggle](https://storage.googleapis.com/kaggle-avatars/images/default-thumb.png)](https://www.kaggle.com/harmankhatkar1)
+<p align="center">
+  <a href="TWITTER_PROFILE_URL">
+    <img src="TWITTER_ICON_URL" alt="Twitter Icon">
+  </a>
+  <a href="GITHUB_PROFILE_URL">
+    <img src="GITHUB_ICON_URL" alt="GitHub Icon">
+  </a>
+  <a href="LINKEDIN_PROFILE_URL">
+    <img src="LINKEDIN_ICON_URL" alt="LinkedIn Icon">
+  </a>
+  <a href="KAGGLE_PROFILE_URL">
+    <img src="KAGGLE_ICON_URL" alt="Kaggle Icon">
+  </a>
+</p>
+
 
 Welcome to my realm of data exploration and analysis! This repository encapsulates a series of captivating data stories that I've unravelled using my analytical prowess. Each project reflects a fusion of curiosity, data, and code that results in insights worth sharing. So grab your analytical lens and let's embark on this data odyssey together!
 
