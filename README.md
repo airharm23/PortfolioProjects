@@ -24,6 +24,6 @@ Welcome to my realm of data exploration and analysis! This repository encapsulat
 
 ### Project 1: Shopzone Sales 2023
 
-
+Problem/Goals: Company wants to gain insights into their sales performance for the year and understand what categories customers are buying more of, and breakdown of sales by gender. Also during which quarters of the year is there more traffic in the store and to explore whether there are any age differences among their customers that might influence purchasing patterns
 
 ![Shopzone Sales 2023 Dashboard](https://github.com/haskhatkar/images/blob/main/Shopzone%20Sales%202023.png?raw=true)
