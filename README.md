@@ -1,5 +1,5 @@
 <h1 align="center">🔍 Harman Khatkar's Data Analysis Portfolio</h1>
-<p align="center">Embark on a journey through data-driven insights and discoveries</p>
+
 
 
 <p align="center">
