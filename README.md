@@ -20,6 +20,6 @@
 
 Welcome to my realm of data exploration and analysis! This repository encapsulates a series of captivating data stories that I've unravelled using my analytical prowess. Each project reflects a fusion of curiosity, data, and code that results in insights worth sharing. So grab your analytical lens and let's embark on this data odyssey together!
 
-## &#x1F4CA;  <!-- Excel emoji --> Excel Projects
+### &#x1F4CA;  <!-- Excel emoji --> Excel Projects
 
-## Project 1: Shopzone Sales 2023
+### Project 1: Shopzone Sales 2023
