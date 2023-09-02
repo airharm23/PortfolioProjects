@@ -40,7 +40,7 @@ Problem/Goals: The goal is to analyze and gain insights into the arms sales cond
 
 ### Project 3: Birth Rates, Life Expectancy, and Death Rates Analysis
 
-Problem/Goals: The goal in this project is to analyze and address whether birth rates, fertility rates are in decline, and how do they compare with death rates in the last 100 years and to see if this trend is continuing.
+Problem/Goals: The goal in this project is to analyze and address whether birth rates, fertility rates are in decline, and how do they compare with death rates in the last 100 years and to see if this trend is continuing. Combine multiple datasets together and clean it using SQL, then visualize the trends on Tableau.
 
 ![BIRTH RATES, LIFE EXPECTANCY, AND DEATH RATES](https://github.com/haskhatkar/Data-Analyst-Portfolio/assets/95619175/7f222f2c-f3cd-4dd2-a36e-78f142b36cc8)
 
