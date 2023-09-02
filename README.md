@@ -38,4 +38,6 @@ Problem/Goals: The goal is to analyze and gain insights into the arms sales cond
 
 ### 📈 SQL & TABLEAU PROJECTS
 
+### Project 3: BIRTH RATES, LIFE EXPECTANCY, AND DEATH RATES ANALYSIS
 
+Problem/Goals: The goal in this project is to analyze and address whether birth rates, fertility rates are in decline, and how do they compare with death rates in the last 100 years and to see if this trend is continuing.
