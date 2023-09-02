@@ -22,7 +22,7 @@ Welcome to my Data Analysis Portfolio, a realm where data comes to life and stor
 
 From the art of data cleansing, where noise gives way to clarity, to the symphony of exploratory data analysis, where trends and anomalies harmonize, this portfolio reflects my dedication to mastering the techniques that underpin every successful analysis.
 
-### &#x1F4CA;  <!-- Excel emoji --> Excel Projects
+### &#x1F4CA;  <!-- Excel emoji --> EXCEL PROJECTS
 
 ### Project 1: Shopzone Sales 2023
 
@@ -36,6 +36,6 @@ Problem/Goals: The goal is to analyze and gain insights into the arms sales cond
 
 ![Arms Sales from USA to Other Countries Dashboard](https://github.com/haskhatkar/images/blob/main/Arms%20Sales%20from%20USA%20to%20Other%20Countries.png?raw=true)
 
-### 📈 SQL & Tableau Projects
+### 📈 SQL & TABLEAU PROJECTS
 
 
