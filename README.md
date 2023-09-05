@@ -50,5 +50,6 @@ Problem/Goals: New York City wants to find how to decrease the amount of severe 
 
 https://public.tableau.com/views/NewYorkCityCarCrashes_16939463410280/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-![New York City Car Crashes Dashboard 2012-2023](https://github.com/haskhatkar/Data-Analyst-Portfolio/assets/95619175/a3c49370-ca90-4ab0-bdac-88b9c2ef6421)
+![New York City Car Crashes Dashboard 2012-2023](https://github.com/haskhatkar/Data-Analyst-Portfolio/assets/95619175/8e7d3c4f-5263-41bc-8ba8-674acfe4963e)
+
 
