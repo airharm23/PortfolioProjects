@@ -52,7 +52,7 @@ https://public.tableau.com/views/NewYorkCityCarCrashes_16939463410280/Dashboard1
 
 ![New York City Car Crashes Dashboard 2012-2023](https://github.com/haskhatkar/Data-Analyst-Portfolio/assets/95619175/8e7d3c4f-5263-41bc-8ba8-674acfe4963e)
 
-### 🔍 POWER BI PROJECTS
+### 📉 POWER BI PROJECTS
 
 ### Project 5: Shop Haven Sales
 
