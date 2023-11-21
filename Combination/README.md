@@ -1,6 +1,4 @@
-
-<h1 align="center">Some projects I have done where I combined SQL, Excel, Python, Tableau and also used web scraping and API key</h1>
-
+### 🧮 COMBINATION PROJECTS (PYTHON, SQL, EXCEL, TABLEAU)
 
 ### Project 8: Federal Reserve Total Assets + Top Companies Total Assets Growth Rate Effect on Stock Market
 
