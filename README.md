@@ -60,3 +60,21 @@ Problem/Goals: Analyze sales and profits of Shop Haven for current and past year
 
 ![SHop Haven Sales Dashboard](https://github.com/haskhatkar/Data-Analyst-Portfolio/assets/95619175/ec601200-c431-442d-99e2-9ee932d059d1)
 
+### 💹 PYTHON PROJECTS
+
+### Project 6: Bitcoin Trend Analysis using Binance API
+
+Problem/Goals: To gain insight into future Bitcoin price movement using data from Binance API
+
+![image](https://github.com/haskhatkar/Data-Analyst-Portfolio/assets/95619175/839b136c-6bd7-4e7e-9981-cadc8697f89e)
+
+### Project 7: Shop Mart Sales Analysis
+
+Problem/Goals: To gain insight into Sales Trend of Shop Mart, which payment methods were most used, which products were most bought, trends in months and times of days where sales are highest. Who generates more revenue Men or Women?
+
+![image](https://github.com/haskhatkar/Data-Analyst-Portfolio/assets/95619175/efd18fbd-0e35-488d-b720-7e9f6eb0f93f)
+
+### 💹 COMBINATION PROJECTS (PYTHON, SQL, EXCEL, TABLEAU)
+
+### Project 8: Shop Mart Sales Analysis
+
