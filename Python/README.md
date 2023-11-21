@@ -1,4 +1,4 @@
-<h1 align="center">Python Projects on Pandas</h1>
+### 💹 PYTHON PROJECTS
 
 ### Project 6: Bitcoin Trend Analysis using Binance API
 
