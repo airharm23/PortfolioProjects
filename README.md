@@ -1,27 +1,5 @@
 <h1 align="center">🔍 Harman Khatkar's Data Analysis Portfolio</h1>
 
-
-
-<p align="center">
-  <a href="TWITTER_PROFILE_URL">
-    <img src="TWITTER_ICON_URL" alt="Twitter Icon">
-  </a>
-  <a href="GITHUB_PROFILE_URL">
-    <img src="GITHUB_ICON_URL" alt="GitHub Icon">
-  </a>
-  <a href="LINKEDIN_PROFILE_URL">
-    <img src="LINKEDIN_ICON_URL" alt="LinkedIn Icon">
-  </a>
-  <a href="KAGGLE_PROFILE_URL">
-    <img src="KAGGLE_ICON_URL" alt="Kaggle Icon">
-  </a>
-</p>
-
-
-Welcome to my Data Analysis Portfolio, a realm where data comes to life and stories are told through patterns, insights, and revelations. In this collection of projects, I've harnessed the power of key data analysis techniques to explore the intricacies of datasets, uncover hidden gems of information, and present narratives that resonate.
-
-From the art of data cleansing, where noise gives way to clarity, to the symphony of exploratory data analysis, where trends and anomalies harmonize, this portfolio reflects my dedication to mastering the techniques that underpin every successful analysis.
-
 ### &#x1F4CA;  <!-- Excel emoji --> EXCEL PROJECTS
 
 ### Project 1: Shopzone Sales 2023
